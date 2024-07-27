@@ -1,6 +1,9 @@
 # Kakush
 
-![logo-black](https://github.com/user-attachments/assets/a07415b3-8ef2-4200-8e79-19c077fbd82f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a07415b3-8ef2-4200-8e79-19c077fbd82f" alt="logo-black" style="border-radius: 50%; width: 150px; height: 150px;">
+</p>
+
 
 ## Overview
 
@@ -15,10 +18,9 @@ Welcome to the **Interfacing Techniques Lab** at Birzeit University! This reposi
 
 ## Repository Structure
 
-- **Arduino_Course**: Contains materials and projects related to Arduino.
 - **Kakush_Logo**: Includes logo files and related assets.
+- **Arduino_Course**: Contains materials and projects related to Arduino.
 - **PID_Course**: Projects and examples for PID control systems.
-- **README.md**: The main documentation file for this repository.
 - **desktop.ini**: Configuration file for directory management.
 
 ## Getting Started
@@ -29,13 +31,18 @@ To get started with any of the projects in this repository, navigate to the resp
 
 We welcome contributions! Please fork this repository and submit pull requests. Make sure to adhere to the coding standards and include documentation for any new features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries or further information, please contact the lab supervisor at [contact@birzeit.edu](mailto:contact@birzeit.edu).
+For any inquiries or further information, please contact the lab supervisor at 
+
+[![facebook](https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/qossay.rida?mibextid=2JQ9oc)
+
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/+972598592423)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qossay-rida-3aa3b81a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/qossayrida)
 
 ---
 
