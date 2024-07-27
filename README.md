@@ -1,7 +1,7 @@
 # Kakush
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a07415b3-8ef2-4200-8e79-19c077fbd82f" alt="logo-black" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://github.com/user-attachments/assets/a07415b3-8ef2-4200-8e79-19c077fbd82f" alt="logo-black" style="border-radius: 50%; width: 250px; height: 250px;">
 </p>
 
 
@@ -21,7 +21,6 @@ Welcome to the **Interfacing Techniques Lab** at Birzeit University! This reposi
 - **Kakush_Logo**: Includes logo files and related assets.
 - **Arduino_Course**: Contains materials and projects related to Arduino.
 - **PID_Course**: Projects and examples for PID control systems.
-- **desktop.ini**: Configuration file for directory management.
 
 ## Getting Started
 
